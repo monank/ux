@@ -1,0 +1,50 @@
+/* write your CSS here */
+header{
+    background-color:lightsteelblue;
+      text-align:center; 
+    padding:5px;
+}
+#header-line{
+    font-style:italic;
+    text-transform: lowercase;
+     font-size:12px;
+}
+#name {
+    font-family:Georgia;
+    color: black;
+    letter-spacing: 0.56em;
+    font-size:40px;
+}
+#about-me{
+     font-style:italic;
+    text-transform: lowercase;
+    font-size:12px;
+}
+h1 {
+    font-family:Georgia;
+    color: black;
+}
+#email {
+    font-size:12px;
+    font-style:italic;
+    color: navy;
+}
+h3{
+    color:navy;
+}
+.news{
+    width:70%;
+    padding:5px;
+    text-align:left;
+    color:black;
+    text-transform: none;
+}
+body{
+     font-family:Arial;
+    color:dimgrey; 
+}
+footer{
+    padding:0.5px;
+      text-align:center; 
+        background-color:lightsteelblue;
+}
