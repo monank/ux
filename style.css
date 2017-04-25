@@ -10,7 +10,7 @@ header{
      font-size:12px;
 }
 #name {
-    font-family:Georgia;
+    font-family:Helvetica;
     color: black;
     letter-spacing: 0.56em;
     font-size:40px;
@@ -21,7 +21,7 @@ header{
     font-size:12px;
 }
 h1 {
-    font-family:Georgia;
+    font-family:Helvetica;
     color: black;
 }
 #email {
@@ -40,7 +40,7 @@ h3{
     text-transform: none;
 }
 body{
-     font-family:Arial;
+     font-family:Helvetica;
     color:dimgrey; 
 }
 footer{
